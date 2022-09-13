@@ -12,5 +12,6 @@ namespace WebshopLibLogic
         public string ArticleName { get; set; }       
         public double ArticlePrice { get; set; }
         public string ArticleDescription { get; set; }
+        public int ArticleCount { get; set; }
     }
 }
